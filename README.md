@@ -2,7 +2,9 @@
 
 ## Introduction
 
-Thanks for your interest in applying to Shepherd Money! Complete this short toy project before your interview to help us evaluate your skills as a software engineer. It shouldn't take more than an hour if you know Spring Boot. We look forward to seeing your work and learning more about you!
+Welcome to my repository! Here, you'll find the short toy project for Shepherd Money's software engineering application. Your interest in applying is greatly appreciated! This project is designed to assess your skills as a software engineer and should be easily completed within an hour if you're familiar with Spring Boot.
+
+Feel free to dive into the project and showcase your coding prowess. We're excited to see your work and get to know more about you during the interview process. If you have any questions or need assistance, don't hesitate to reach out. Happy coding!
 
 ## Submission
 Create a public repository on Github or Gitlab with the code committed to the `main` branch. Send the repository link to bofanxu@shepherdmoney.com
@@ -37,6 +39,3 @@ The controllers should contain enough comment for you to implement their basic f
   - The database name is `database`
   - The username is `sa`
   - The password is `password`
-
-## Questions?
-If you have project related issues, feel free to raise an issue on the repository :D. If you have more private questions, please reach out to bofanxu@shepherdmoney.com
